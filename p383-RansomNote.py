@@ -8,5 +8,3 @@ class Solution:
             if lichar[ord(char)-ord('a')] == -1:
                 return False
         return True
-
-        

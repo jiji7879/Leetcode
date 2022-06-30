@@ -1,3 +1,4 @@
+#needed a lot of help
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         if grid == None:

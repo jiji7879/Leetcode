@@ -1,3 +1,4 @@
+#needed help
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
@@ -17,4 +18,4 @@ class Solution:
                 return False
             elif fast == slow:
                 return True
-        return False 
+        return False
